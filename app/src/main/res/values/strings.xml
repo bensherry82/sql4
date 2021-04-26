@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wait List</string>
+    <string name="add_name">Add Student to Waiting List</string>
+    <string name="main_name">Mrs John\'s Waiting List</string>
+    <string name="course_name">Enter the Course Name</string>
+    <string name="student_name">Enter the Student\'s Name</string>
+    <string name="grade_name">Grade Level (1-4)</string>
+    <string name="update_button">Update the Waiting List Record</string>
+    <string name="delete_button">Delete the Waiting List Record</string>
+</resources>
